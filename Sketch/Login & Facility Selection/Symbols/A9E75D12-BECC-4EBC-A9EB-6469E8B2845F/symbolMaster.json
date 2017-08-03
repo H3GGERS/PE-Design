@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "A9E75D12-BECC-4EBC-A9EB-6469E8B2845F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 224,
+    "width": 158,
+    "x": 7735,
+    "y": 1979
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2EAA8C72-832A-47FD-BC4D-86B33F25C7B5"
+    },
+    {
+      "class": "text",
+      "id": "693F4C25-9B3D-45F0-A2F8-92F87844F734"
+    },
+    {
+      "class": "text",
+      "id": "5C1B293A-BD6F-4B6A-A585-E451C6F5E881"
+    },
+    {
+      "class": "text",
+      "id": "2EA37976-28AE-4A5E-A47E-54AF2B241544"
+    },
+    {
+      "class": "text",
+      "id": "850F1EDF-2AE7-4353-84C9-ECEFAFFD8046"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED9A882C-34D1-4729-AFD8-FAE4F92847A5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2D2AC08-AE56-488F-9F81-E9F032ECA1EA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3897926-72CF-4499-9C9D-76BCC433B903"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54BFF575-B572-4B6A-8D4F-19C88B036D52"
+    },
+    {
+      "class": "text",
+      "id": "B0F58899-44A7-4C3E-B8EA-9B103BC3376A"
+    },
+    {
+      "class": "text",
+      "id": "E2756A95-4D1E-4C17-8EBF-6AC071C40C75"
+    }
+  ],
+  "name": "Dropdown / Recurring Weekly",
+  "nameIsFixed": false,
+  "originalObjectID": "A9E75D12-BECC-4EBC-A9EB-6469E8B2845F",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BE223E3D-CE87-4819-99AF-0AEDDD0CEB8E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

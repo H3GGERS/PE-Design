@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "9A788ECD-A673-4DDF-A0BB-1E20CD458D68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 130,
+    "x": 500,
+    "y": 111
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "36C5CEBE-5B90-4106-AD62-723495DA8008"
+    },
+    {
+      "class": "text",
+      "id": "6581F913-03F2-40FF-ABCE-89F74A60EBC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8CEC4185-7067-46D7-804D-47B591279C00"
+    },
+    {
+      "class": "text",
+      "id": "F142D721-5729-4C9E-B5AB-BC171FB3ED97"
+    },
+    {
+      "class": "text",
+      "id": "0E9A7C23-8CDD-4D8E-B58F-21E4D4179146"
+    }
+  ],
+  "name": "Time",
+  "nameIsFixed": true,
+  "originalObjectID": "9A788ECD-A673-4DDF-A0BB-1E20CD458D68",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

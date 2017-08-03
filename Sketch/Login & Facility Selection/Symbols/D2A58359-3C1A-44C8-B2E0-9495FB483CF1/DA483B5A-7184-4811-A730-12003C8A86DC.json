@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZmdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT9CRUhMVFVWV1hcYGJVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfEEVMYWIgcmVzdWx0cyBmb3IgbGFzdCBtb250aCBhcmUgbm93IGF2YWlsYWJsZS4gQ2hlY2sgb3V0IHlvdXIgcmVzdWx0cy7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4APgBdXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuMzAxOTYwNzg0MyAwLjMwMTk2MDc4NDMgMC4zMDE5NjA3ODQzABABgAiACtIoCikqVE5TSUQQAYAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiMDFcTlNDb2xvclNwYWNlWE5TT2JqZWN00iwtMzRXTlNDb2xvcqIzMdU2Nwo4OTo7PD09Wk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgAAQBIAOgAyADNISCkBBoIAN0iwtQ0RXTlNBcnJheaJDMdIsLUZHXxAQTlNQYXJhZ3JhcGhTdHlsZaJGMdIKSUpLXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCk1QU6JOT4ARgBKiUVKAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFhPcGVuU2Fuc9IsLVlaXxATTlNNdXRhYmxlRGljdGlvbmFyeaNZWzFcTlNEaWN0aW9uYXJ50iwtXV5fEBBOU0ZvbnREZXNjcmlwdG9yol8xXxAQTlNGb250RGVzY3JpcHRvctIsLVtholsx0iwtY2RfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZTFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRaGlUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAywDSANoA5QDpAOsA7QDvAPMA9QD3APkA+wEDARYBOAFBAUcBVAFpAZMBlQGXAZkBngGjAaUBpwGsAbcBwAHNAdAB3QHmAesB8wH2AgECDAIYAiUCMQIzAjUCNwI5AjsCQAJBAkMCSAJQAlMCWAJrAm4CcwKQApIClAKbAp4CoAKiAqUCpwKpAqsCwQLXAuAC6QLuAwQDCAMVAxoDLQMwA0MDSANLA1ADZQNoA30DjwOSA5cAAAAAAAACAQAAAAAAAABqAAAAAAAAAAAAAAAAAAADmQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "DA483B5A-7184-4811-A730-12003C8A86DC",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 442,
+    "x": 40,
+    "y": 24
+  },
+  "glyphBounds": "{{0, 0}, {441, 19}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lab results for last",
+  "nameIsFixed": false,
+  "originalObjectID": "DA483B5A-7184-4811-A730-12003C8A86DC",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "93C14B44-BCF0-4737-9B3C-C4821632C682"
+  },
+  "textBehaviour": 0
+}

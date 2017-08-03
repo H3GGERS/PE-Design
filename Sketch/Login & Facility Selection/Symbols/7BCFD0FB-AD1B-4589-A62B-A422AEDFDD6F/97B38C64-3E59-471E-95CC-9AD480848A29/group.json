@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "97B38C64-3E59-471E-95CC-9AD480848A29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 56,
+    "x": 706,
+    "y": 250
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "728E4848-1FB5-48DE-B00F-0AAB778342E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F86B6F0F-494F-4830-99B4-1B4A8C228535"
+    }
+  ],
+  "name": "Keyboard down",
+  "nameIsFixed": true,
+  "originalObjectID": "97B38C64-3E59-471E-95CC-9AD480848A29",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

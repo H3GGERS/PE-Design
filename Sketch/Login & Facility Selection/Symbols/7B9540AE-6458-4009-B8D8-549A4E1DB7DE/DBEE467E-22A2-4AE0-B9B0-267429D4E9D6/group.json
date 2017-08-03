@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "do_objectID": "DBEE467E-22A2-4AE0-B9B0-267429D4E9D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 479,
+    "width": 193,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D1B3D4EA-873E-4599-A9F5-3DABA3ECC4D2"
+    },
+    {
+      "class": "text",
+      "id": "A3529126-2272-4C69-85B4-ED40DA6164C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4F8AF2D-86B6-4553-BF46-4F8BE87EBE73"
+    },
+    {
+      "class": "text",
+      "id": "EF9A54D4-DCAF-43E4-85DF-69BA58837F10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7334D66E-10CE-49AE-8FB4-3353492FCC25"
+    },
+    {
+      "class": "text",
+      "id": "0019C7D2-6F62-4155-8FA6-04173C941BEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "85649AAF-43DE-4493-8686-A4ED060A878D"
+    },
+    {
+      "class": "text",
+      "id": "2F71671B-673D-4A06-B580-A20F682FCEFB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "928A7FB3-868A-483B-934B-976B359D305E"
+    },
+    {
+      "class": "text",
+      "id": "1F0C46A1-02AC-4BE3-8373-7C829B2290E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FEF5BE32-B5AD-40E9-B689-4D51F5D009E8"
+    },
+    {
+      "class": "text",
+      "id": "B847B435-FFD7-48B5-9D1D-C03B39D0F7AA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3481173E-FB2F-4CD9-9283-EC83A5EFB148"
+    },
+    {
+      "class": "text",
+      "id": "F90D1FA0-FC64-48EF-BE11-167D1046911B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B4AD9ECE-D0DF-404D-A0E9-B975CF84569A"
+    },
+    {
+      "class": "text",
+      "id": "378F82D3-F83C-4BC6-9050-9F87F70F5038"
+    }
+  ],
+  "name": "LeftNav_Tablet (Meds)",
+  "nameIsFixed": false,
+  "originalObjectID": "DBEE467E-22A2-4AE0-B9B0-267429D4E9D6",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

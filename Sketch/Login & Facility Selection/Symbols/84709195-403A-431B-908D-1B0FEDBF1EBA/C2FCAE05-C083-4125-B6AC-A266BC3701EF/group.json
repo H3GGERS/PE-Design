@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "C2FCAE05-C083-4125-B6AC-A266BC3701EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 570,
+    "x": 39,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3B0833C5-EDE3-4C69-950A-E4C06B57F3EB"
+    }
+  ],
+  "name": "Reminders Description / Overdue Labs",
+  "nameIsFixed": false,
+  "originalObjectID": "C2FCAE05-C083-4125-B6AC-A266BC3701EF",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

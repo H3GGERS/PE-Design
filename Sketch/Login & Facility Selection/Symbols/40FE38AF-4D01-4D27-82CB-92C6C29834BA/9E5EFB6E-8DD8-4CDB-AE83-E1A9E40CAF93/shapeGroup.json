@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "9E5EFB6E-8DD8-4CDB-AE83-E1A9E40CAF93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 15.62228571428572,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7EAEFD96-5108-4564-92CC-CD3AC50A2C46"
+    },
+    {
+      "class": "shapePath",
+      "id": "233633A4-EBC1-4DCF-9003-0E3CDD2363CA"
+    },
+    {
+      "class": "shapePath",
+      "id": "C08E8812-66C5-4D28-A5B6-DE04FAEB5FB4"
+    },
+    {
+      "class": "shapePath",
+      "id": "85CFC5CE-0EF6-4BB1-B21E-63B655C50A1C"
+    }
+  ],
+  "name": "Medications",
+  "nameIsFixed": false,
+  "originalObjectID": "9E5EFB6E-8DD8-4CDB-AE83-E1A9E40CAF93",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.996202354701804,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1058823529411764,
+          "green": 0.1686274509803922,
+          "red": 0.6274509803921569
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

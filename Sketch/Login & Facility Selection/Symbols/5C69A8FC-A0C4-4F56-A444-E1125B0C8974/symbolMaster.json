@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "5C69A8FC-A0C4-4F56-A444-E1125B0C8974",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 299,
+    "width": 457,
+    "x": 0,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "992FF1C6-1020-4E0E-A14C-6FFE31CA3577"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DD5BDC5-6D2A-406F-A5D4-97153C1957E7"
+    },
+    {
+      "class": "text",
+      "id": "AF589ABB-1D27-45C9-86D2-5D5A3D297148"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ECA7FE8C-6AA8-4E1E-A22D-4126B576A3B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8231395F-9B19-4A77-8C4F-753A8973607B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7FC7A26-376D-4DFB-9241-46A445D036EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21487A21-CEA3-49C2-82F3-545385C9C7B3"
+    },
+    {
+      "class": "group",
+      "id": "81B4B99B-1BA8-4254-84CF-685F86588BA9"
+    },
+    {
+      "class": "group",
+      "id": "BBC7B802-5185-4E6E-A3C6-DA40C0A8E581"
+    },
+    {
+      "class": "group",
+      "id": "06F57DCF-F86A-48AF-8310-90769453C0FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DD43C4D-29E9-466B-9D6A-D6D29D3397AA"
+    }
+  ],
+  "name": "Alert / Change Clinic Choice",
+  "nameIsFixed": false,
+  "originalObjectID": "5C69A8FC-A0C4-4F56-A444-E1125B0C8974",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3261A192-805E-45CE-8E5A-5BE0810DA90C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

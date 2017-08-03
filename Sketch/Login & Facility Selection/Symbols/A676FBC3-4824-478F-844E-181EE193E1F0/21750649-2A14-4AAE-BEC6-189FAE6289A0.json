@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXF1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTs+QkpLTE1OUlZYVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADWVRoaXMgV2Vla9MREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA2AFVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlRjEgMSAxABABgAiACtIoCikqVE5TSUQQAYAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiMDFcTlNDb2xvclNwYWNlWE5TT2JqZWN00iwtMzRXTlNDb2xvcqIzMdM2Cjc4OTpaTlNUYWJTdG9wc1tOU0FsaWdubWVudIAAgAwQBNIsLTw9XxAQTlNQYXJhZ3JhcGhTdHlsZaI8MdIKP0BBXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkNGSaJERYAPgBCiR0iAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAFhPcGVuU2Fuc9IsLU9QXxATTlNNdXRhYmxlRGljdGlvbmFyeaNPUTFcTlNEaWN0aW9uYXJ50iwtU1RfEBBOU0ZvbnREZXNjcmlwdG9yolUxXxAQTlNGb250RGVzY3JpcHRvctIsLVFXolEx0iwtWVpfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiWzFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRXl9Ucm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEAiwCSAJoApQCpAKsArQCvALMAtQC3ALkAuwDDANYA+AEBAQcBFAEpATABMgE0ATYBOwFAAUIBRAFJAVQBXQFqAW0BegGDAYgBkAGTAZoBpQGxAbMBtQG3AbwBzwHSAdcB9AH2AfgB/wICAgQCBgIJAgsCDQIPAiUCOwJEAk0CUgJoAmwCeQJ+ApEClAKnAqwCrwK0AskCzALhAvMC9gL7AAAAAAAAAgEAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAv0="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "21750649-2A14-4AAE-BEC6-189FAE6289A0",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 76,
+    "x": 12,
+    "y": 12
+  },
+  "glyphBounds": "{{0, 0}, {76, 22}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "This Week",
+  "nameIsFixed": false,
+  "originalObjectID": "21750649-2A14-4AAE-BEC6-189FAE6289A0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "25A6FB51-0D42-47AE-A449-998489FECDC0"
+  },
+  "textBehaviour": 0
+}

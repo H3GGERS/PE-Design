@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "046751B3-1498-4AB5-8D4D-2CC3C5940B90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 91,
+    "x": 43,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "779FF6DD-200E-40AB-A247-6AB6E963FB37"
+    },
+    {
+      "class": "group",
+      "id": "A1BD09F4-747D-4E70-ABAC-C78230852535"
+    },
+    {
+      "class": "text",
+      "id": "091874C6-A501-48EC-A0BE-F361676CE980"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "303081E6-70C5-4DBF-8416-BE31B4FED77F"
+    }
+  ],
+  "name": "Flag Edit Trash",
+  "nameIsFixed": false,
+  "originalObjectID": "7D9F445C-038B-4222-93C6-8FF1B6DCCCE8",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

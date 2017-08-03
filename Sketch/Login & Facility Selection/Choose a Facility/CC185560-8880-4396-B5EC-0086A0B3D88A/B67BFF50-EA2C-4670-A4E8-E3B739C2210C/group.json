@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "B67BFF50-EA2C-4670-A4E8-E3B739C2210C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 54,
+    "width": 73,
+    "x": -192,
+    "y": 91
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "95B7E9CE-A0BE-4923-B8C8-41F63C53F835"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F81EA64A-7321-489B-93B2-A880FE1D743B"
+    }
+  ],
+  "name": "Nurse Setting Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

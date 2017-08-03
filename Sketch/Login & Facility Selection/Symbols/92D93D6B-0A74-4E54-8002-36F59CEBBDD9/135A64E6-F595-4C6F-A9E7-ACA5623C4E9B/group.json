@@ -1,0 +1,138 @@
+{
+  "_class": "group",
+  "do_objectID": "135A64E6-F595-4C6F-A9E7-ACA5623C4E9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "20B1F192-983C-4358-BEE7-C070438A3C0F"
+    },
+    {
+      "class": "text",
+      "id": "A467E33C-5A0F-4579-A42E-C8BDA62B29D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "59CDCD8D-1B2A-493B-9C13-127D59907C6A"
+    },
+    {
+      "class": "text",
+      "id": "18C5CB31-7953-4344-80CD-E9E2D0C5A0BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "627518D6-0FC0-4ABA-BF85-322DF2A0B600"
+    },
+    {
+      "class": "text",
+      "id": "7DADEBDC-81FE-420E-82AC-147B8136A0D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10844449-21AD-486E-A977-202CA1FA9BF2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E7F5C96-6AD6-4797-964B-73FA6E070DEB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5A7A5DC1-9049-400E-9A98-0101D4C23C14"
+    },
+    {
+      "class": "text",
+      "id": "15206CDD-FCD5-445D-8029-A273D5532303"
+    },
+    {
+      "class": "text",
+      "id": "B4E5EECB-570F-46C4-8F7C-26C11479ACB2"
+    },
+    {
+      "class": "text",
+      "id": "CB7C9D12-A38F-420E-AA37-0E3DA1B06353"
+    },
+    {
+      "class": "text",
+      "id": "1F9E2FA8-B9B2-48EC-B8A3-57943A070136"
+    },
+    {
+      "class": "text",
+      "id": "8A29CB68-7FD4-4388-AB87-B3C8436B366C"
+    },
+    {
+      "class": "text",
+      "id": "4B62AC09-3896-4B62-AE54-7D32BDC9F0C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C84A86E-0F13-455B-8333-A890527A9303"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F94BC52-17B7-4E1C-A93E-66ABF14DAE52"
+    },
+    {
+      "class": "text",
+      "id": "C9C75F63-59D2-4C8E-A26D-EC3B980EB963"
+    },
+    {
+      "class": "text",
+      "id": "5195158E-C167-4274-B3DF-AE58DD8782B6"
+    },
+    {
+      "class": "text",
+      "id": "5DACAD58-DB04-4D80-940D-3B40478745AE"
+    },
+    {
+      "class": "text",
+      "id": "8CF92CDB-C6BD-423D-B391-DA05AFF26A22"
+    },
+    {
+      "class": "text",
+      "id": "154AA442-A02B-4931-A348-7FC68BE5E5F7"
+    },
+    {
+      "class": "text",
+      "id": "4A0A34A9-F857-424A-AA4E-2B8323D29CF1"
+    },
+    {
+      "class": "text",
+      "id": "054B9127-5EC4-4036-9411-EB1DC803B1E4"
+    }
+  ],
+  "name": "Mobile Navigation (Meds)",
+  "nameIsFixed": false,
+  "originalObjectID": "135A64E6-F595-4C6F-A9E7-ACA5623C4E9B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

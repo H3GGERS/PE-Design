@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "do_objectID": "C2D12276-8BB5-47ED-8BAC-1C421F8B4167",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 392,
+    "width": 247,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "92D4EE9A-75CA-41C9-8A48-AB8504E13F5D"
+    },
+    {
+      "class": "text",
+      "id": "AB74D13B-835C-4716-8057-10316AD88B22"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D453CC00-2337-443C-B379-53217FE03766"
+    },
+    {
+      "class": "text",
+      "id": "B3FFE551-286F-4408-8D29-D471BC8B18B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8C2C5DF-C570-45C4-891D-F45AC1DB6A10"
+    },
+    {
+      "class": "text",
+      "id": "73AFD7C9-C9D3-46BF-AC0D-CC3374ED2C0B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F29153D-D203-4708-8478-7FBD614E1EEC"
+    },
+    {
+      "class": "text",
+      "id": "3D458EFB-A4D9-49F7-B09D-5AD37FE63F33"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3585518C-E3E1-48E7-A901-BD3AD69EAEE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E1ABF3BB-5E27-4021-8D19-95EB4EAA5379"
+    },
+    {
+      "class": "text",
+      "id": "0B8BDFF9-8C00-4210-AF63-9ACC1E47572B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DEF35A02-E0E0-4FEA-A6AF-AA49884A293A"
+    },
+    {
+      "class": "text",
+      "id": "8CBB5370-E0F7-470D-9EA4-9287BC8D315B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "314C6ACF-9CBF-4716-A2F8-D7DCC53858DA"
+    },
+    {
+      "class": "text",
+      "id": "808AAE53-73A5-48DF-A663-96A93D0B3F77"
+    },
+    {
+      "class": "text",
+      "id": "E3BCBE43-0AEE-45DB-8773-24D0538C3281"
+    }
+  ],
+  "name": "leftNav (Morbids)",
+  "nameIsFixed": false,
+  "originalObjectID": "C2D12276-8BB5-47ED-8BAC-1C421F8B4167",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

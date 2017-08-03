@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXF1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTs+QkpLTE1OUlZYVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADWk15IFByb2ZpbGXTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4ANgBVXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUwwLjQgMC40IDAuNAAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHTNgo3ODk6Wk5TVGFiU3RvcHNbTlNBbGlnbm1lbnSAAIAMEATSLC08PV8QEE5TUGFyYWdyYXBoU3R5bGWiPDHSCj9AQV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpDRkmiREWAD4AQokdIgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABYT3BlblNhbnPSLC1PUF8QE05TTXV0YWJsZURpY3Rpb25hcnmjT1ExXE5TRGljdGlvbmFyedIsLVNUXxAQTlNGb250RGVzY3JpcHRvcqJVMV8QEE5TRm9udERlc2NyaXB0b3LSLC1RV6JRMdIsLVlaXxASTlNBdHRyaWJ1dGVkU3RyaW5nolsxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V5fVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBAIwAkwCbAKYAqgCsAK4AsAC0ALYAuAC6ALwAxADXAPkBAgEIARUBKgE3ATkBOwE9AUIBRwFJAUsBUAFbAWQBcQF0AYEBigGPAZcBmgGhAawBuAG6AbwBvgHDAdYB2QHeAfsB/QH/AgYCCQILAg0CEAISAhQCFgIsAkICSwJUAlkCbwJzAoAChQKYApsCrgKzArYCuwLQAtMC6AL6Av0DAgAAAAAAAAIBAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAME"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "A5C18A54-12C9-40D3-AC3D-D6AF50374BFC",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 80.81875000000007,
+    "x": 16.08333333332848,
+    "y": 21
+  },
+  "glyphBounds": "{{0, 0}, {74, 21}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "My Profile",
+  "nameIsFixed": false,
+  "originalObjectID": "A5C18A54-12C9-40D3-AC3D-D6AF50374BFC",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "72F0FA8E-900E-4B9A-8369-76926FA447EE"
+  },
+  "textBehaviour": 1
+}

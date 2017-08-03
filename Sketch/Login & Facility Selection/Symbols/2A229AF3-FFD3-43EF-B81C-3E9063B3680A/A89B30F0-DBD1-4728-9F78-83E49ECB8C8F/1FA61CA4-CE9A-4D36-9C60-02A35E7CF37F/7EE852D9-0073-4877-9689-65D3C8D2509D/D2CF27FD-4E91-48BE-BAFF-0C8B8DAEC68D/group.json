@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "D2CF27FD-4E91-48BE-BAFF-0C8B8DAEC68D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 198,
+    "x": 343,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7BA44350-0291-4954-B89D-3843C7850EC4"
+    },
+    {
+      "class": "text",
+      "id": "0D425C79-22A3-4155-9B55-489503FC035B"
+    }
+  ],
+  "name": "Clinician Accounts",
+  "nameIsFixed": true,
+  "originalObjectID": "D2CF27FD-4E91-48BE-BAFF-0C8B8DAEC68D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

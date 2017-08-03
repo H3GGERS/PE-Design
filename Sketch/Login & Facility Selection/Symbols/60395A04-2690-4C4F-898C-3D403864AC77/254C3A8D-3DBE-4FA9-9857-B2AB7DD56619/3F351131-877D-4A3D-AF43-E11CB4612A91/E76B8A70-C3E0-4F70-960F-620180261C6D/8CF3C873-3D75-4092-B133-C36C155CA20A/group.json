@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "8CF3C873-3D75-4092-B133-C36C155CA20A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 137,
+    "x": 674,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5BFEED39-E9AD-44F5-B00E-96D260C10832"
+    },
+    {
+      "class": "text",
+      "id": "2DDB6343-A2E9-4BA1-B540-1D15467DA55D"
+    }
+  ],
+  "name": "Care Plans Active",
+  "nameIsFixed": true,
+  "originalObjectID": "E52C969B-2341-4374-8D4F-F10B9A9A446D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

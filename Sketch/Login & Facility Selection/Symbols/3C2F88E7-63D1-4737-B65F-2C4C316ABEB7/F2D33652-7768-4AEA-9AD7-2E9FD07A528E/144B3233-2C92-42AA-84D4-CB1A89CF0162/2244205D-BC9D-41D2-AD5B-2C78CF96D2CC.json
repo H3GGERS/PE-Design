@@ -1,0 +1,60 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZmdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT5BREhMVFVWV1hcYGJVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANZSSB0aGluayB80xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuAD4AXV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VMMC40IDAuNCAwLjQAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1TY3OAo5Ojs8PTxaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodIAAgAwjQDYAAAAAAACADtISCj9AoIAN0iwtQkNXTlNBcnJheaJCMdIsLUVGXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjRUcxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKSUpLXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCk1QU6JOT4ARgBKiUVKAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMQAAAAAAAF8QEU9wZW5TYW5zLVNlbWlib2xk0iwtWVpfEBNOU011dGFibGVEaWN0aW9uYXJ5o1lbMVxOU0RpY3Rpb25hcnnSLC1dXl8QEE5TRm9udERlc2NyaXB0b3KiXzFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtW2GiWzHSLC1jZF8QEk5TQXR0cmlidXRlZFN0cmluZ6JlMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFoaVRyb290gAEACAARABoAIwAtADIANwBTAFkAYABpAHAAfQB/AIEAgwCNAJQAnACnAKsArQCvALEAtQC3ALkAuwC9AMUA2AD6AQMBCQEWASsBOAE6ATwBPgFDAUgBSgFMAVEBXAFlAXIBdQGCAYsBkAGYAZsBpgGxAb0BzwHhAeMB5QHuAfAB9QH2AfgB/QIFAggCDQInAisCPgJDAmACYgJkAmsCbgJwAnICdQJ3AnkCewKRAqcCsALEAskC3wLjAvAC9QMIAwsDHgMjAyYDKwNAA0MDWANqA20DcgAAAAAAAAIBAAAAAAAAAGoAAAAAAAAAAAAAAAAAAAN0"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2244205D-BC9D-41D2-AD5B-2C78CF96D2CC",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 449.7221197943009,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {63, 22}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "I think |",
+  "nameIsFixed": false,
+  "originalObjectID": "2244205D-BC9D-41D2-AD5B-2C78CF96D2CC",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "55E4A4AF-F0EE-4A5C-910A-41CE5D672D00"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "medicine",
+          "type": "title"
+        },
+        "title": "Medicine"
+      }
+    }
+  }
+}

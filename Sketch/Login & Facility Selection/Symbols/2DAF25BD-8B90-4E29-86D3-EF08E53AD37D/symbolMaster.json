@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "2DAF25BD-8B90-4E29-86D3-EF08E53AD37D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 269,
+    "width": 775,
+    "x": 1020,
+    "y": 1247
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      172
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D3CCCAA5-45E8-4E61-9973-979D7C7BF980"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "719A3B48-7697-4347-B24B-161C9A077D93"
+    },
+    {
+      "class": "text",
+      "id": "B74A23FC-0C22-4CBA-93FD-09EC121C167A"
+    },
+    {
+      "class": "group",
+      "id": "A9D1F70D-2638-4FE8-942C-A0D1D32D974B"
+    },
+    {
+      "class": "group",
+      "id": "9A788ECD-A673-4DDF-A0BB-1E20CD458D68"
+    },
+    {
+      "class": "group",
+      "id": "096CEA8A-D2BE-4A86-A778-0E196EE43527"
+    },
+    {
+      "class": "group",
+      "id": "8EB112D2-E27E-42AF-9CDD-002DF3D91898"
+    },
+    {
+      "class": "text",
+      "id": "F427F0E5-07CC-46EF-B21F-12DE65CBCBAE"
+    },
+    {
+      "class": "text",
+      "id": "49C94BD9-9C0C-4C6D-90DA-8F7D79F29EA3"
+    },
+    {
+      "class": "text",
+      "id": "70FFB31F-E7FE-4E9E-A3A0-018BBEB5EDC0"
+    }
+  ],
+  "name": "Assign Reminder / Edit Reminder",
+  "nameIsFixed": false,
+  "originalObjectID": "2DAF25BD-8B90-4E29-86D3-EF08E53AD37D",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E2F0C19B-859E-4FA7-98A7-14D22CEC1606",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
