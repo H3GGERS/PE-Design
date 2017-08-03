@@ -1,0 +1,90 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "CC77C28B-B68D-4518-A8F7-B8309A44B4D3",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "ai.brand.sync": {
+      "importedColors": {
+      },
+      "importedTypeStyles": {
+        "0D40E39C-6B9D-471C-9329-1837F0D3A6F6": "58f904bdd04ef47cd6e2bd42",
+        "10CFD14B-C3AA-4622-82F8-00B978501378": "58f904bdd04ef47cd6e2bd2c",
+        "1117E7F0-1267-4BE5-8713-9A3AF4B1785D": "58f904bdd04ef47cd6e2bd38",
+        "18241840-48FB-4413-AABC-EAEDF2859C3C": "58f904bdd04ef47cd6e2bd35",
+        "193499D9-5276-445D-A95E-AF593F53FD9E": "58f904bdd04ef47cd6e2bd49",
+        "29CB1076-7A2D-4F40-84C0-D7375552D2DD": "58f904bdd04ef47cd6e2bd2f",
+        "3B468423-ED95-47C7-83D8-B1BEE9B0721C": "58f904bdd04ef47cd6e2bd59",
+        "3C8EC96F-89CD-4D6B-ABCD-4C48ADEA7D6A": "58f904bdd04ef47cd6e2bd5b",
+        "44C54F4B-8E81-41C9-B8E4-1641FF37A2E3": "58f904bdd04ef47cd6e2bd54",
+        "45E67C19-38DA-4006-83BA-3C8F793812E6": "58f904bdd04ef47cd6e2bd53",
+        "4A70E7D8-1DB5-4A6D-ACF2-8C04C04DD631": "58f904bdd04ef47cd6e2bd58",
+        "5267BD74-2A87-4440-B8CB-7284BB0C08C5": "58f904bdd04ef47cd6e2bd30",
+        "530416FF-E605-4E3D-BD05-9F5A117E0D93": "58f904bdd04ef47cd6e2bd4f",
+        "5879FBB6-D2A2-4A6E-A528-4746C2BC5FEC": "58f904bdd04ef47cd6e2bd5a",
+        "5CFF9B9E-A9F1-4EF2-B816-73E18197CD38": "58f904bdd04ef47cd6e2bd5c",
+        "67BB4346-F78A-47A0-A633-10D1203D8F1E": "58f904bdd04ef47cd6e2bd48",
+        "68ACAC95-4B6B-463D-8E9A-4AC31A2B2A47": "58f904bdd04ef47cd6e2bd51",
+        "6C69564E-F3E3-43E6-B939-867A7DC7DA8B": "58f904bdd04ef47cd6e2bd2b",
+        "6D8DE5BF-7DF9-4063-B9F1-49FD7E95E0E5": "58f904bdd04ef47cd6e2bd5d",
+        "71E77558-DF5E-4062-8415-B88F0A5EFF1B": "58f904bdd04ef47cd6e2bd45",
+        "73C32F19-859F-4192-8E52-8EC4DBFCB8A8": "58f904bdd04ef47cd6e2bd44",
+        "76BB77A6-35C0-4454-AAC0-1CFE3EDCD543": "58f904bdd04ef47cd6e2bd3e",
+        "7AE1FD68-D082-4C80-A008-9EDF0BC44A6C": "58f904bdd04ef47cd6e2bd2d",
+        "7B174E42-1045-435F-A68B-369841FCA05C": "58f904bdd04ef47cd6e2bd37",
+        "7E281C33-00F2-427C-86A0-EE55CE382688": "58f904bdd04ef47cd6e2bd2a",
+        "7FE39329-38CB-475F-91CB-E9574A02A6FE": "58f904bdd04ef47cd6e2bd4a",
+        "844ADDD5-78C7-4398-AFFB-B6D1478AF491": "58f904bdd04ef47cd6e2bd40",
+        "8EF7A77B-A870-49CA-AAF3-203C263BC702": "58f904bdd04ef47cd6e2bd41",
+        "8FFA7A1C-63C2-4773-ADFC-79BBBCB81102": "58f904bdd04ef47cd6e2bd4d",
+        "92544604-D8B3-4449-95A2-527C7C8E625A": "58f904bdd04ef47cd6e2bd3c",
+        "96A24C20-A060-428D-A066-8123B2B41E20": "58f904bdd04ef47cd6e2bd34",
+        "97EAB76E-F177-4B7A-BF84-CF9F6084E076": "58f904bdd04ef47cd6e2bd47",
+        "9ED0898E-4264-4753-9FE3-4EBBA7CDBC4A": "58f904bdd04ef47cd6e2bd3d",
+        "AEDFF978-445C-4168-962D-1B6D08554D75": "58f904bdd04ef47cd6e2bd52",
+        "B3315C31-7A5F-4DEA-A2AA-38859B2258F4": "58f904bdd04ef47cd6e2bd4b",
+        "B3440F16-DA34-445B-9366-FB79979468A1": "58f904bdd04ef47cd6e2bd39",
+        "B43B847D-779D-433A-9681-4F946DDD72EA": "58f904bdd04ef47cd6e2bd4c",
+        "B8BACD16-0850-4890-A026-1B686E3A4CBA": "58f904bdd04ef47cd6e2bd55",
+        "BBBF7C53-7AD5-411A-81C2-D46E454D0C87": "58f904bdd04ef47cd6e2bd46",
+        "C05DC471-9FB8-472C-986E-8DCEEDD147F4": "58f904bdd04ef47cd6e2bd33",
+        "C07CA234-0A91-4BF1-BC8C-8D9B75F14BEE": "58f904bdd04ef47cd6e2bd56",
+        "C4A7F785-89A0-4E44-81B8-55937F12E7F5": "58f904bdd04ef47cd6e2bd4e",
+        "CDBBABE7-0D6A-4D73-A658-FCC929749C5B": "58f904bdd04ef47cd6e2bd3f",
+        "CE0D5F8E-921D-412D-A197-2A503673378F": "58f904bdd04ef47cd6e2bd31",
+        "D83CF84E-19EA-4DB8-B530-2A2D46DB8C0A": "58f904bdd04ef47cd6e2bd43",
+        "DEC8C3E0-2FF3-4DFE-99BA-FE5043D4C03D": "58f904bdd04ef47cd6e2bd57",
+        "E7D6FD51-FB0E-479B-A72F-D7B99D0A69E7": "58f904bdd04ef47cd6e2bd50",
+        "EA550AD3-4F98-48A3-9A9E-A667C654EB15": "58f904bdd04ef47cd6e2bd2e",
+        "EBA0DD3A-5C05-4576-A7B9-EEDCE52E6CAF": "58f904bdd04ef47cd6e2bd3b",
+        "F26F5085-9314-4D87-B72A-033FAD9826C0": "58f904bdd04ef47cd6e2bd36",
+        "FA1F236D-8894-4566-89A3-6E8DDDDA8EA1": "58f904bdd04ef47cd6e2bd32",
+        "FD87C9D8-A03A-47CD-8BF1-9D56C5A434A8": "58f904bdd04ef47cd6e2bd3a"
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

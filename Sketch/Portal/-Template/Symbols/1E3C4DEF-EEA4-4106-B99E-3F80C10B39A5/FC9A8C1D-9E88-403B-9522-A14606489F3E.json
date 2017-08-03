@@ -1,0 +1,58 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGVFVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSsyNjpCQ0RFRkpOUFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA11BbHZpbiBBcmNoZXJ50xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAmAC4ATV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMgIQoiIyRVTlNSR0JcTlNDb2xvclNwYWNlRjEgMSAxABABgAjSJicoKVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiKCpYTlNPYmplY3TULC0uCi8wIzFaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb26AABAEgArSJiczNF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozM1Kl8QEE5TUGFyYWdyYXBoU3R5bGXSCjc4OV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgo7PkGiPD2ADYAOoj9AgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIAAAAAAABZTGF0by1Cb2xk0iYnR0hfEBNOU011dGFibGVEaWN0aW9uYXJ5o0dJKlxOU0RpY3Rpb25hcnnSJidLTF8QEE5TRm9udERlc2NyaXB0b3KiTSpfEBBOU0ZvbnREZXNjcmlwdG9y0iYnSU+iSSrSJidRUl8QEk5TQXR0cmlidXRlZFN0cmluZ6JTKl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFWV1Ryb290gAEACAARABoAIwAtADIANwBPAFUAXABlAGwAeQB7AH0AfwCNAJQAnACnAKsArQCvALEAtQC3ALkAuwC9AMUA2AD6AQEBBwEUARsBHQEfASQBLwE4AUABQwFMAVUBYAFsAY4BkAGSAZQBmQGzAbcBygHPAewB7gHwAfcB+gH8Af4CAQIDAgUCBwIdAjMCPAJGAksCYQJlAnICdwKKAo0CoAKlAqgCrQLCAsUC2gLsAu8C9AAAAAAAAAIBAAAAAAAAAFgAAAAAAAAAAAAAAAAAAAL2"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "FC9A8C1D-9E88-403B-9522-A14606489F3E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 112,
+    "x": 8,
+    "y": 5.113636363636366
+  },
+  "glyphBounds": "{{-1, 0}, {110, 22}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Name",
+  "nameIsFixed": true,
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "0E3E3E05-FA2D-4A94-90DA-450D853FE652"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "name",
+        "options": {
+          "gender": "female"
+        },
+        "title": "Female"
+      }
+    }
+  }
+}

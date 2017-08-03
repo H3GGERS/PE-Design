@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8B4806F3-97A3-41C2-AE5E-93BCA6874FAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 63.99999999999997,
+    "x": 128.0000000000002,
+    "y": 1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Contact",
+  "nameIsFixed": true,
+  "overrides": {
+    "849BDD8B-6EFE-469D-A582-767F0A4D60CA": {
+      "2B1963B0-A989-4CC1-AAEF-88C58E875195": {
+        "symbolID": "C0112684-AB55-46E1-A9D3-2E7507EFA2B5"
+      },
+      "symbolID": "89397810-380A-4233-8E9D-75E80491736C"
+    },
+    "E9DC2919-396F-446D-8085-10561570AE72": "Contact"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5C2E45C5-244C-49B3-9A57-F90CCB0D6DDD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "9484E1C1-7EBA-479D-8850-06B903705A3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 672,
+    "x": 0,
+    "y": 638
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3D7AD1CB-EB25-4B79-BDBA-33C9D17EA0BD"
+    },
+    {
+      "class": "text",
+      "id": "B8FB311A-468E-4071-BDEF-E3092AC88EEF"
+    }
+  ],
+  "name": "iPad Body L2 Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

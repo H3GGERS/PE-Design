@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D7049884-5790-40F7-84E5-D6F8FE0C54D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 288.28515625,
+    "x": 0,
+    "y": 332
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "SPOT 7",
+  "nameIsFixed": true,
+  "originalObjectID": "D7049884-5790-40F7-84E5-D6F8FE0C54D3",
+  "overrides": {
+    "39373CBA-A42E-468A-9F39-0BA38DAFB6BE": {
+      "5B0D0091-1C02-4355-B95C-878B1D15DDDC": "Reminders"
+    }
+  },
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5E0A9CE8-407A-4FD4-9A54-F4F37058ECBB",
+  "verticalSpacing": 0
+}

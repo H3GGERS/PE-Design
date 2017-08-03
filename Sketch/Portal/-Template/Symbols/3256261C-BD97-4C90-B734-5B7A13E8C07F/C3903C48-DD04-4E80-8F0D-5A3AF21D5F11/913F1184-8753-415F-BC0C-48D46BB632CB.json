@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGW1xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAeHyAhIi00OEBBQkNESExNUlVXVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxATQWNjZXNzIFByb2JsZW1zLnBkZtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgBOAFV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlW05TVW5kZXJsaW5lV05TQ29sb3LWIyQlCiYnKCkqKywqW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0EASAACNAOAAAAAAAAIAJEAHSLi8wMVokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjMDIzXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIKNTY3XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEYAL0xESCjk8P6I6O4AMgA2iPT6ADoAPgBBfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSLi9FRl8QE05TTXV0YWJsZURpY3Rpb25hcnmjRUczXE5TRGljdGlvbmFyedIuL0lKXxAQTlNGb250RGVzY3JpcHRvcqJLM18QEE5TRm9udERlc2NyaXB0b3IjP/AAAAAAAADTTk8KUCxRVU5TUkdCXE5TQ29sb3JTcGFjZU8QHDAgMC40MTE3NjQ3MDU5IDAuNjk0MTE3NjQ3MQCAFNIuL1NUV05TQ29sb3KiUzPSLi9HVqJHM9IuL1hZXxASTlNBdHRyaWJ1dGVkU3RyaW5nolozXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V1eVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBAJcAngCmALEAtgC4ALoAvAC+AMMAxQDHAMkAywDNAOABAgEOARYBIwEvAToBTAFuAYABggGEAY0BjwGRAZYBoQGqAcQByAHbAeQB6QIGAggCCgIRAhQCFgIYAhsCHQIfAiECNwJNAlYCYwJoAn4CggKPApQCpwKqAr0CxgLNAtMC4AL/AwEDBgMOAxEDFgMZAx4DMwM2A0sDXQNgA2UAAAAAAAACAQAAAAAAAABfAAAAAAAAAAAAAAAAAAADZw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "913F1184-8753-415F-BC0C-48D46BB632CB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 416,
+    "x": 155,
+    "y": 55
+  },
+  "glyphBounds": "{{0, 6}, {127, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "File",
+  "nameIsFixed": true,
+  "originalObjectID": "13AB662E-AE2A-4B02-8ACC-22D716BC513D",
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A380123F-E842-4767-91CC-ADFB373268ED"
+  },
+  "textBehaviour": 1
+}

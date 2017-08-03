@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2E4210ED-6E72-4C2B-B755-55E9512AF07E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 272,
+    "y": 62
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "DaVita Dark Gray",
+  "nameIsFixed": true,
+  "overrides": {
+    "273607E9-F1CC-4701-BBCA-AC5AE547C752": {
+      "symbolID": "C0112684-AB55-46E1-A9D3-2E7507EFA2B5"
+    },
+    "9C92D5C0-1655-439E-BC8B-307D509BCFF3": "414141",
+    "FD4C9D69-D49C-452C-99AB-1AE893674903": "DaVita Dark Gray"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "91058251-58C0-4F6E-983E-23A32BC17C28",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "0981E859-BA17-442E-A27A-F7EDE7BAF36A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 816,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "64F8AF67-9B84-4336-A79C-9E460E0B16D2"
+    },
+    {
+      "class": "text",
+      "id": "11D54D61-2C8F-4DD2-B0C8-3E8F2A16B087"
+    },
+    {
+      "class": "text",
+      "id": "97F0C8E8-4CDE-440E-AB98-2217E160DD51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16DC693B-6E19-40AE-B64A-2CBF21EDA940"
+    }
+  ],
+  "name": "Pantone 116 C",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

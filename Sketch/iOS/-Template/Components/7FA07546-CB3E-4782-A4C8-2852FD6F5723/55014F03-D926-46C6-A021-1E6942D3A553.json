@@ -1,0 +1,98 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "55014F03-D926-46C6-A021-1E6942D3A553",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 320,
+    "x": 790,
+    "y": 268
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Navigation / Bottom Bar Copy 3",
+  "nameIsFixed": false,
+  "overrides": {
+    "60C773FB-848E-4957-88D7-1DFCBCBD97A9": {
+      "849BDD8B-6EFE-469D-A582-767F0A4D60CA": {
+        "0D1E4913-7460-48AB-A9BD-B6E755CE6F99": {
+          "symbolID": "C0112684-AB55-46E1-A9D3-2E7507EFA2B5"
+        },
+        "symbolID": "AA7A4D3C-113B-43F1-B875-E7B39985EE1A"
+      },
+      "A05E07CB-0E4B-41E1-9C81-E32A148371DC": "My Health",
+      "B8FBEFBD-425F-4727-8828-02ED60B740C0": {
+        "0D1E4913-7460-48AB-A9BD-B6E755CE6F99": {
+          "symbolID": "6E2344D8-27A0-4C35-9176-C2A000C704F3"
+        },
+        "symbolID": "AA7A4D3C-113B-43F1-B875-E7B39985EE1A"
+      },
+      "E9DC2919-396F-446D-8085-10561570AE72": "My Health",
+      "symbolID": "5C2E45C5-244C-49B3-9A57-F90CCB0D6DDD"
+    },
+    "8B4806F3-97A3-41C2-AE5E-93BCA6874FAA": {
+      "849BDD8B-6EFE-469D-A582-767F0A4D60CA": {
+        "2B1963B0-A989-4CC1-AAEF-88C58E875195": {
+          "symbolID": "C0112684-AB55-46E1-A9D3-2E7507EFA2B5"
+        },
+        "symbolID": "89397810-380A-4233-8E9D-75E80491736C"
+      },
+      "A05E07CB-0E4B-41E1-9C81-E32A148371DC": "Contact",
+      "B8FBEFBD-425F-4727-8828-02ED60B740C0": {
+        "2B1963B0-A989-4CC1-AAEF-88C58E875195": {
+          "symbolID": "6E2344D8-27A0-4C35-9176-C2A000C704F3"
+        },
+        "symbolID": "89397810-380A-4233-8E9D-75E80491736C"
+      },
+      "E9DC2919-396F-446D-8085-10561570AE72": "Contact",
+      "symbolID": "5C2E45C5-244C-49B3-9A57-F90CCB0D6DDD"
+    },
+    "8B6413B3-3852-4D98-B305-D4C64D1267B8": {
+      "849BDD8B-6EFE-469D-A582-767F0A4D60CA": {
+        "symbolID": "77400A8F-5F4A-4343-99D6-DCA3A7FC23DE"
+      },
+      "E9DC2919-396F-446D-8085-10561570AE72": "Reminders",
+      "symbolID": "5C2E45C5-244C-49B3-9A57-F90CCB0D6DDD"
+    },
+    "D40CCC66-8264-49BB-9824-73CC8A57D5CB": {
+      "A05E07CB-0E4B-41E1-9C81-E32A148371DC": "Appointments",
+      "B8FBEFBD-425F-4727-8828-02ED60B740C0": {
+        "933C5B19-180C-4EC4-AAC5-972794C6A2E5": {
+          "symbolID": "6E2344D8-27A0-4C35-9176-C2A000C704F3"
+        },
+        "symbolID": "909177D9-584D-4AAD-9B8C-DAB2FB2C5E9D"
+      },
+      "symbolID": "668B9693-E3B6-4A66-85CE-D1DFBCAE6991"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9AF3EB7A-CEED-4242-BA7C-61F7369F0D3B",
+  "verticalSpacing": 0
+}

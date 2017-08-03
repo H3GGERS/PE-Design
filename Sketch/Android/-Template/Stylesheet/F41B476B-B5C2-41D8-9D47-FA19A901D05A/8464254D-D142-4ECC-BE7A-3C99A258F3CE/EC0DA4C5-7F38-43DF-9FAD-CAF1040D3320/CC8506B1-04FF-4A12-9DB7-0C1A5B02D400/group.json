@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "CC8506B1-04FF-4A12-9DB7-0C1A5B02D400",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 272,
+    "y": 274
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "634FBADB-5F2A-4A34-8EB1-83CB5972E315"
+    },
+    {
+      "class": "text",
+      "id": "431FFF84-A6F4-414B-B3E2-1084ADB4AD9F"
+    },
+    {
+      "class": "text",
+      "id": "3B7EC5AA-31BB-4301-B061-C661AE10AB14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "966CD692-8054-4485-B983-45D93BBC4583"
+    }
+  ],
+  "name": "Pantone 214 C",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

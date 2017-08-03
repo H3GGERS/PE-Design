@@ -1,0 +1,100 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 4737,
+  "do_objectID": "1E59F533-821D-4ED5-8107-3548CB68D269",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 138,
+    "width": 320,
+    "x": 14263,
+    "y": 332
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "84CF8E72-4628-4320-847C-A1B2FBBC4880"
+    },
+    {
+      "class": "group",
+      "id": "3C8E6A9A-9AD2-467A-A717-976E51F41DA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6823327D-1682-4307-9071-20430B4873AA"
+    },
+    {
+      "class": "text",
+      "id": "DDDBDBC0-1EDC-461B-B199-BEC9A8CF7013"
+    },
+    {
+      "class": "text",
+      "id": "7B2F109D-6739-4E3F-939F-D74C3343D673"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36802243-387C-4460-8BB4-702530D15BC8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4418490E-2F33-4433-9B9A-F02BCE339314"
+    },
+    {
+      "class": "text",
+      "id": "652D305D-403A-4593-B132-D94C59A9A2FE"
+    }
+  ],
+  "name": "Row / Reminder / Patient Created / Single | Handset",
+  "nameIsFixed": true,
+  "originalObjectID": "3870C57B-5ECA-4CBF-BA1D-8E2160925F5B",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "53B6252E-D3F6-4403-A7C0-A8EE72FD266F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

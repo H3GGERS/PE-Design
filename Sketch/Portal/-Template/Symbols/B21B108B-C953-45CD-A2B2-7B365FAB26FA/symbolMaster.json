@@ -1,0 +1,91 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 679,
+  "do_objectID": "B21B108B-C953-45CD-A2B2-7B365FAB26FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 63,
+    "width": 1024,
+    "x": 11649,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "24924E9F-EAA4-45C8-93D9-4288440B8853"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8C7BF8A-7315-4625-B312-BD05A8E4AD59"
+    },
+    {
+      "class": "text",
+      "id": "64CF0CB3-D76C-4023-9C6F-D13D4434D225"
+    },
+    {
+      "class": "text",
+      "id": "AFFE41C7-3053-4303-8313-788E63498E96"
+    },
+    {
+      "class": "text",
+      "id": "B34D8D94-1CEB-4F87-AB2F-4F1679975F59"
+    },
+    {
+      "class": "text",
+      "id": "976B8072-93B1-4E8B-B949-2287E8571AE3"
+    }
+  ],
+  "name": "Row / Clinician List",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F84F7532-3F64-4CD0-A01C-04ABAA6829F7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

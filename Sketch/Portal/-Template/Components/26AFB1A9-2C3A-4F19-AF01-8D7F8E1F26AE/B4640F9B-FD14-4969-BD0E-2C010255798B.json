@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B4640F9B-FD14-4969-BD0E-2C010255798B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 80,
+    "x": 304,
+    "y": 83
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Button / Small Copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "EBC1CC4E-7542-46A2-9F43-5DD1283CB49A": {
+      "E57A8EB0-1157-49FA-B511-4B54FD9EB6F0": "Label",
+      "symbolID": "67ACF82B-A099-44F5-B8AC-E73F693ECF56"
+    },
+    "F946390E-0153-4D4B-82EC-60C83C44B8C0": {
+      "symbolID": "C7BD81C5-623E-4520-B7C3-97E351EF2B97"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8F178438-6B8A-4BD4-A7F1-A6F3D5A63222",
+  "verticalSpacing": 0
+}

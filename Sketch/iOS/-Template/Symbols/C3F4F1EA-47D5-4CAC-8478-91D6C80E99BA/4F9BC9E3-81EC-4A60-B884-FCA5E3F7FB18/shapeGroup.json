@@ -1,0 +1,46 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "4F9BC9E3-81EC-4A60-B884-FCA5E3F7FB18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 12.5,
+    "x": 5.75,
+    "y": 1.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "88F41452-5B2A-4D5F-9EE5-612F8AACD38E"
+    }
+  ],
+  "name": "Back Chevron",
+  "nameIsFixed": true,
+  "originalObjectID": "5A0B9047-4D2E-427D-B8BB-858FD9001A36",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "8A5A372B-F98B-44ED-BDFE-08A448CEAB0B"
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "F3ED8BC5-9614-4800-8FA9-B762EA7A8592",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 0,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C6278E45-49D4-46A4-8249-C7C2B919E58F"
+    },
+    {
+      "class": "text",
+      "id": "76F8DFCA-7E63-4787-A079-CE24AB5C2737"
+    },
+    {
+      "class": "text",
+      "id": "EAB5C55E-65E8-4370-BF9D-D59967A8B5E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEC8A071-FE4B-45FD-95F5-8BCCEF76107C"
+    }
+  ],
+  "name": "Pantone 541 C",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

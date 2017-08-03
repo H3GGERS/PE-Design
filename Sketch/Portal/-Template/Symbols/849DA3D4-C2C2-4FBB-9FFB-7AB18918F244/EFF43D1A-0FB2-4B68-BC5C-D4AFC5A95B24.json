@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGamtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNUJFSExQWFlaW1xgZGZVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANcMzAzLTAwMC0wMDAw0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuAD4AXV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjI1NDkwMTk2MDggMC4yNTQ5MDE5NjA4IDAuMjU0OTAxOTYwOAAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHXCjY3ODk6Ozw9Pj5AQEFaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRbTlNBbGlnbm1lbnSADoAAgAyADCNAOgAAAAAAABAE0hIKQ0SggA3SLC1GR1dOU0FycmF5okYx0iwtSUpfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNJSzFfEBBOU1BhcmFncmFwaFN0eWxl0gpNTk9fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AWgBDTERIKUVRXolJTgBGAEqJVVoATgBSAFV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAXExhdG8tUmVndWxhctIsLV1eXxATTlNNdXRhYmxlRGljdGlvbmFyeaNdXzFcTlNEaWN0aW9uYXJ50iwtYWJfEBBOU0ZvbnREZXNjcmlwdG9yomMxXxAQTlNGb250RGVzY3JpcHRvctIsLV9lol8x0iwtZ2hfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiaTFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbG1Ucm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAkACXAJ8AqgCuALAAsgC0ALgAugC8AL4AwADIANsA/QEGAQwBGQEuAVgBWgFcAV4BYwFoAWoBbAFxAXwBhQGSAZUBogGrAbABuAG7AcoB1QHiAe4CAAISAh4CIAIiAiQCJgIvAjECNgI3AjkCPgJGAkkCTgJoAmwCfwKEAqECowKlAqwCrwKxArMCtgK4AroCvALSAugC8QL+AwMDGQMdAyoDLwNCA0UDWANdA2ADZQN6A30DkgOkA6cDrAAAAAAAAAIBAAAAAAAAAG4AAAAAAAAAAAAAAAAAAAOu"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "EFF43D1A-0FB2-4B68-BC5C-D4AFC5A95B24",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 105,
+    "x": 408,
+    "y": 31
+  },
+  "glyphBounds": "{{0, 7}, {105, 13}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Phone Number",
+  "nameIsFixed": true,
+  "originalObjectID": "EFF43D1A-0FB2-4B68-BC5C-D4AFC5A95B24",
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "01826E81-5F87-4C04-BA49-26312F447CE3"
+  },
+  "textBehaviour": 0
+}

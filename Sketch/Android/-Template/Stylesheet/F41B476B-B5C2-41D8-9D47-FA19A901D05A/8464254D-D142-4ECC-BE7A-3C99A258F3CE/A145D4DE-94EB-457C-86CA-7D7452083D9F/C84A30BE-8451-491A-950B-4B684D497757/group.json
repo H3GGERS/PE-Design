@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C84A30BE-8451-491A-950B-4B684D497757",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 272,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7A913CA3-5F86-4E6F-B9A9-E997BC03734B"
+    },
+    {
+      "class": "text",
+      "id": "2EC52E2C-1ED8-44EF-A301-AC9CB6B30DB3"
+    },
+    {
+      "class": "text",
+      "id": "A2B3CDEB-9151-4B89-BAF0-A7ECA9398F0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C21D74F6-6458-4542-A544-BA11FD619691"
+    }
+  ],
+  "name": "DaVita Dark Gray",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

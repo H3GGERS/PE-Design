@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "FEEEE39E-1599-4344-8B41-8D0A33D0CFA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 0,
+    "y": 274
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3295AF8F-16A5-4005-B861-A881686F68DF"
+    },
+    {
+      "class": "text",
+      "id": "A3792417-A371-4056-8AF7-43491A7F9725"
+    },
+    {
+      "class": "text",
+      "id": "C85C3CB6-0B2E-4BB9-BC54-B115CBC7910A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24FB636D-19DF-4D98-A5E8-89E9769D45AD"
+    }
+  ],
+  "name": "DaVita White | Paper",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

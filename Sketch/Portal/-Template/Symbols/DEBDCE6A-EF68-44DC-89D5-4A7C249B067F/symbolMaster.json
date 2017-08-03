@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2046,
+  "do_objectID": "DEBDCE6A-EF68-44DC-89D5-4A7C249B067F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 127,
+    "width": 568,
+    "x": 14263,
+    "y": 520
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9FF3C9DE-1ABF-43A6-B659-EBCC22F31833"
+    },
+    {
+      "class": "group",
+      "id": "D3C1216C-DFE4-4CA3-85B2-D077F204DF63"
+    },
+    {
+      "class": "group",
+      "id": "ADC59D57-87AE-4455-8E0E-042CE97E9CA4"
+    },
+    {
+      "class": "text",
+      "id": "FF03C1EA-F924-48F9-9D5F-0621CCC8982E"
+    },
+    {
+      "class": "text",
+      "id": "18467209-6E46-4969-8D8D-84A41929C1BE"
+    },
+    {
+      "class": "text",
+      "id": "9037D3B6-64D2-4287-81A7-2E1CF2B3818E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE2C5D3A-726A-4638-B5D0-57C2105B8685"
+    }
+  ],
+  "name": "Row / Reminder / Patient Created / Single | Tablet",
+  "nameIsFixed": true,
+  "originalObjectID": "87EE6792-F9F3-40AC-84E1-209B2BE27239",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F08830EB-1234-41BA-BD66-457721FC8E2D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "4BAA77AB-7D3B-40E6-9F31-B5C704797496",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 544,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FC367E8E-1F28-4F3B-8F5C-3387051CCA1C"
+    },
+    {
+      "class": "text",
+      "id": "D760B0C2-1D3D-4A71-9D61-759F86451220"
+    },
+    {
+      "class": "text",
+      "id": "AA3E5F35-4318-48E2-998E-A4264E48B159"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FEF302F7-FC00-4374-84D7-9EAD0E542C65"
+    }
+  ],
+  "name": "DaVita Medium Gray",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

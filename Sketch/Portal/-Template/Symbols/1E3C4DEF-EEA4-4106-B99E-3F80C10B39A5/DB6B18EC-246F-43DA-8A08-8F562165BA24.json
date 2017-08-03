@@ -1,0 +1,56 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGU1RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSsxNTlBQkNERUlNT1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA18QEjEwLzE4LzIwMTYgOTozMCBBTdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4AJgAuAE1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTICEKIiMkVU5TUkdCXE5TQ29sb3JTcGFjZUYxIDEgMQAQAYAI0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yoigqWE5TT2JqZWN01CwtLgovIyMwWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugACACtImJzIzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjMjQqXxAQTlNQYXJhZ3JhcGhTdHlsZdIKNjc4XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjo9QKI7PIANgA6iPj+AD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKgAAAAAAAFxMYXRvLVJlZ3VsYXLSJidGR18QE05TTXV0YWJsZURpY3Rpb25hcnmjRkgqXE5TRGljdGlvbmFyedImJ0pLXxAQTlNGb250RGVzY3JpcHRvcqJMKl8QEE5TRm9udERlc2NyaXB0b3LSJidITqJIKtImJ1BRXxASTlNBdHRyaWJ1dGVkU3RyaW5nolIqXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0VVWVHJvb3SAAQAIABEAGgAjAC0AMgA3AE8AVQBcAGUAbAB5AHsAfQB/AJQAmwCjAK4AsgC0ALYAuAC8AL4AwADCAMQAzADfAQEBCAEOARsBIgEkASYBKwE2AT8BRwFKAVMBXAFnAXMBlQGXAZkBngG4AbwBzwHUAfEB8wH1AfwB/wIBAgMCBgIIAgoCDAIiAjgCQQJOAlMCaQJtAnoCfwKSApUCqAKtArACtQLKAs0C4gL0AvcC/AAAAAAAAAIBAAAAAAAAAFcAAAAAAAAAAAAAAAAAAAL+"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "DB6B18EC-246F-43DA-8A08-8F562165BA24",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 145,
+    "x": 514,
+    "y": 8.181818181818183
+  },
+  "glyphBounds": "{{0, 0}, {124, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Date & Time",
+  "nameIsFixed": true,
+  "resizingConstraint": 30,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "26851A30-3220-400D-B3A2-77E0FB67F190"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "date",
+        "options": "MM/DD/2016",
+        "title": "MM/DD/Y"
+      }
+    }
+  }
+}

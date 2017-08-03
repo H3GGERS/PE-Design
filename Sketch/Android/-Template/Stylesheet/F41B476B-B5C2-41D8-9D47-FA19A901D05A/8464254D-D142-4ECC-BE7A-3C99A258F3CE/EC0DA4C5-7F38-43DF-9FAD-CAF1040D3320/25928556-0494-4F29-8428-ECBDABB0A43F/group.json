@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "25928556-0494-4F29-8428-ECBDABB0A43F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 544,
+    "y": 274
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C2ED8CB5-5E06-494B-87BD-32CD9619364E"
+    },
+    {
+      "class": "text",
+      "id": "A7451F2B-97E7-4167-ACA7-EE9EB246A58D"
+    },
+    {
+      "class": "text",
+      "id": "42013164-65AE-4CE0-AF26-2C4593ECAB55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D37A8ED-34F1-476F-85EA-4289E2B51311"
+    }
+  ],
+  "name": "Pantone 2597 C",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "2A42BCE0-E070-4C37-8F9F-8AE8C4228CFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 0,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6F44D376-0B00-410C-BCBF-03259FFFC1B3"
+    },
+    {
+      "class": "text",
+      "id": "93928379-FEBC-4E76-8A2D-69E0632B7D42"
+    },
+    {
+      "class": "text",
+      "id": "87B38E84-37F1-46FF-8F82-DC938D1FEB99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F8C8C82-D215-4A70-8282-039EC2ECBB3A"
+    }
+  ],
+  "name": "Brand Primary - Blue",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

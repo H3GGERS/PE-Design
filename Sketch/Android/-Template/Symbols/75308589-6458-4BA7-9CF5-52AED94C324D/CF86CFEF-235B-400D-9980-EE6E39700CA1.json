@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CF86CFEF-235B-400D-9980-EE6E39700CA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 90,
+    "x": 90,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "My Health",
+  "nameIsFixed": true,
+  "overrides": {
+    "1BA33E96-900D-43CF-8207-1A4EB56A8FF0": "My Health",
+    "7DBBC1C1-6D8C-4017-ACE6-FBA504919983": {
+      "C8A9DA0F-A0E0-486C-A14B-B14ED23180BE": {
+        "symbolID": "C0112684-AB55-46E1-A9D3-2E7507EFA2B5"
+      },
+      "symbolID": "AA7A4D3C-113B-43F1-B875-E7B39985EE1A"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "457851B9-6C96-4E07-BD17-3F8615AE1242",
+  "verticalSpacing": 0
+}

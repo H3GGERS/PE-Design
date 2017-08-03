@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "B87A532A-A24B-4F7C-B149-4D63E8BE4226",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 1088,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6E5006D4-B6B2-445D-B7F6-8276A69F6CB7"
+    },
+    {
+      "class": "text",
+      "id": "2312147E-C246-4E80-981D-85715B2F249B"
+    },
+    {
+      "class": "text",
+      "id": "DBC1D677-77FD-42DC-8BC0-03DFADCC3107"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A11F6E8D-AB16-4952-9FC6-461F46F0DF62"
+    }
+  ],
+  "name": "DaVita Pale Gray",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

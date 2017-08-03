@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "337BFEE1-A6A6-487E-B289-F5293C290B74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 299,
+    "x": 18,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3B561037-A372-444B-B79E-2D54F0AD59FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "693A8443-9D65-4421-AC3B-AB0C313E7C0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9BE5164-A3A5-4A9C-95AE-AB5EAD80EBA9"
+    }
+  ],
+  "name": "Patient Info",
+  "nameIsFixed": true,
+  "originalObjectID": "337BFEE1-A6A6-487E-B289-F5293C290B74",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

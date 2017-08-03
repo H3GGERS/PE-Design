@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "5D826353-AF8D-44F6-B8D7-574328F80DA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": -44
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A0554C5E-6A53-49E0-B707-2AA8E9913DB5"
+    },
+    {
+      "class": "text",
+      "id": "91C7251E-06D0-4659-9E77-B62E691F950A"
+    },
+    {
+      "class": "text",
+      "id": "17B33277-5AA1-440E-9082-52A55F5BDC1C"
+    },
+    {
+      "class": "text",
+      "id": "95D3CAE7-8A9B-4254-9803-9AD8903A69F7"
+    },
+    {
+      "class": "text",
+      "id": "9E84FB35-2F08-4A9A-83F5-B90101AB1392"
+    },
+    {
+      "class": "text",
+      "id": "82DA4C35-2084-420F-82B8-5158B486D75C"
+    },
+    {
+      "class": "text",
+      "id": "D448289D-3221-4EA7-A365-A0DA30461488"
+    },
+    {
+      "class": "text",
+      "id": "28A7B62F-2B12-4FBE-86BE-850D31D20228"
+    },
+    {
+      "class": "text",
+      "id": "879B1FE6-F69C-45C5-BA8F-FCE4CD76F535"
+    },
+    {
+      "class": "text",
+      "id": "C453E59F-CB43-45FD-84B1-C43810F574DD"
+    },
+    {
+      "class": "text",
+      "id": "785541E9-081C-412C-B66F-A36794D77032"
+    },
+    {
+      "class": "text",
+      "id": "046E0E9D-2CEB-4210-A684-000B47A1247F"
+    },
+    {
+      "class": "text",
+      "id": "992DADA2-68CA-4555-BC38-A0F014ADF2C7"
+    }
+  ],
+  "name": "Titles",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

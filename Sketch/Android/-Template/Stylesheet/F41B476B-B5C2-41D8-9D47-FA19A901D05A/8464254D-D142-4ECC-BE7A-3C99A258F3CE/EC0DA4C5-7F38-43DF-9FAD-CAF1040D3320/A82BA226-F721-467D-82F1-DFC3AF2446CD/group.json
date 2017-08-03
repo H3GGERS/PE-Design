@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "A82BA226-F721-467D-82F1-DFC3AF2446CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 240,
+    "x": 1088,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8BE48A52-546F-42BA-AAF0-C1EDE8E255A9"
+    },
+    {
+      "class": "text",
+      "id": "48842938-B15A-4670-BE4A-845EEF5EE9D2"
+    },
+    {
+      "class": "text",
+      "id": "CCA8B6FF-6273-4B59-BD81-54D97B0D740A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5700F598-F025-4657-89DA-AB20E96A0D03"
+    }
+  ],
+  "name": "Pantone 2230 C",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
