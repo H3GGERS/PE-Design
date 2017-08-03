@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "3828932A-A926-406D-A110-155FD1E8D8DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 772,
+    "x": 126,
+    "y": 46
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7D631BEC-5938-4D36-9AEA-96F5715648CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DBDF24D3-F7CE-4323-A501-406BF7297004"
+    },
+    {
+      "class": "text",
+      "id": "A45CF84F-D5C5-4C67-90C1-F115029E0BF4"
+    }
+  ],
+  "name": "Browser Bar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

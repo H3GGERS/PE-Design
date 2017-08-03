@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "65D8E2E8-1233-4D23-A3A9-429AD0847CC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 818,
+    "width": 768,
+    "x": 0,
+    "y": 207
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B73EABA2-FB6E-4B75-A7C8-0AC9B12723C5"
+    },
+    {
+      "class": "text",
+      "id": "71F10197-A879-491F-BA47-BDB9032125F8"
+    },
+    {
+      "class": "group",
+      "id": "AB304722-DA5C-4AB8-87EE-92BDA5D6625D"
+    }
+  ],
+  "name": "Rectangle 26 + Access to this site  + Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

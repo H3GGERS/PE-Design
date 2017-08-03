@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "F5C039E7-83F8-41CD-B618-E6717EBACF0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 12,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E08E7C17-7505-43A5-BF74-228B42DE6293"
+    }
+  ],
+  "name": "Group 3",
+  "nameIsFixed": false,
+  "originalObjectID": "F5C039E7-83F8-41CD-B618-E6717EBACF0E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.silverflows.osx.silver": {
+      "componentInfo": {
+        "gestures": [
+          {
+            "action": {
+              "animateInTransition": "_NONE",
+              "artboardID": "324C98FB-B9BD-448A-8F82-56A7EC074CFC",
+              "behavior": "_ARTBOARD_LINK",
+              "scrollToTopAfterReplace": 1,
+              "transitionType": "_REPLACE"
+            },
+            "animateInTransition": "_NONE",
+            "artboardID": "324C98FB-B9BD-448A-8F82-56A7EC074CFC",
+            "behavior": "_ARTBOARD_LINK",
+            "id": "C71E296F-6887-45E5-A2CE-4AA6E46B66F0",
+            "numberOfTaps": 1,
+            "scrollToTopAfterReplace": 1,
+            "transitionType": "_REPLACE",
+            "type": "_TAP"
+          }
+        ],
+        "id": "F5C039E7-83F8-41CD-B618-E6717EBACF0E",
+        "silverID": "F5C039E7-83F8-41CD-B618-E6717EBACF0E"
+      },
+      "componentType": "Link",
+      "version": 1
+    }
+  }
+}

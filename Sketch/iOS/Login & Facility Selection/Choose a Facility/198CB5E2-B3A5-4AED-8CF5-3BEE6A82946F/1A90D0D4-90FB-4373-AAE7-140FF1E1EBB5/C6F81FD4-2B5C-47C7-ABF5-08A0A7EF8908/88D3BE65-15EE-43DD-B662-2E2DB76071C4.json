@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZmdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT5BREhMVFVWV1hcYGJVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANaVGhhbmsgeW91LtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTDAuMiAwLjIgMC4yABABgAiACtIoCikqVE5TSUQQAYAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiMDFcTlNDb2xvclNwYWNlWE5TT2JqZWN00iwtMzRXTlNDb2xvcqIzMdU2NzgKOTo7PD08Wk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHSAAIAMI0A1AAAAAAAAgA7SEgo/QKCADdIsLUJDV05TQXJyYXmiQjHSLC1FRl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0VHMV8QEE5TUGFyYWdyYXBoU3R5bGXSCklKS18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgpNUFOiTk+AEYASolFSgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCoAAAAAAABYT3BlblNhbnPSLC1ZWl8QE05TTXV0YWJsZURpY3Rpb25hcnmjWVsxXE5TRGljdGlvbmFyedIsLV1eXxAQTlNGb250RGVzY3JpcHRvcqJfMV8QEE5TRm9udERlc2NyaXB0b3LSLC1bYaJbMdIsLWNkXxASTlNBdHRyaWJ1dGVkU3RyaW5nomUxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WhpVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAI4AlQCdAKgArACuALAAsgC2ALgAugC8AL4AxgDZAPsBBAEKARcBLAE5ATsBPQE/AUQBSQFLAU0BUgFdAWYBcwF2AYMBjAGRAZkBnAGnAbIBvgHQAeIB5AHmAe8B8QH2AfcB+QH+AgYCCQIOAigCLAI/AkQCYQJjAmUCbAJvAnECcwJ2AngCegJ8ApICqAKxAroCvwLVAtkC5gLrAv4DAQMUAxkDHAMhAzYDOQNOA2ADYwNoAAAAAAAAAgEAAAAAAAAAagAAAAAAAAAAAAAAAAAAA2o="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "88D3BE65-15EE-43DD-B662-2E2DB76071C4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 899.5625,
+    "x": 0,
+    "y": 44
+  },
+  "glyphBounds": "{{0, 0}, {66, 20}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "8-bit VHS hashtag he",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E406D1A0-2FCA-4D04-83C5-2670D477BD44"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "medicine",
+          "type": "title"
+        },
+        "title": "Medicine"
+      }
+    }
+  }
+}

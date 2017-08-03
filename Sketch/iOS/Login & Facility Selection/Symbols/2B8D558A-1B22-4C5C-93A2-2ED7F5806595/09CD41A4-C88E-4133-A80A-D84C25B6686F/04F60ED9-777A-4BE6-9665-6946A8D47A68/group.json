@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "04F60ED9-777A-4BE6-9665-6946A8D47A68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 70,
+    "x": 597,
+    "y": 241
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CE2A47CF-CB88-44EF-AFE7-3E3112FF33D9"
+    },
+    {
+      "class": "text",
+      "id": "8A09611E-74E3-4124-9598-616FACEB539F"
+    }
+  ],
+  "name": "Button / Small Cancel",
+  "nameIsFixed": false,
+  "originalObjectID": "04F60ED9-777A-4BE6-9665-6946A8D47A68",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

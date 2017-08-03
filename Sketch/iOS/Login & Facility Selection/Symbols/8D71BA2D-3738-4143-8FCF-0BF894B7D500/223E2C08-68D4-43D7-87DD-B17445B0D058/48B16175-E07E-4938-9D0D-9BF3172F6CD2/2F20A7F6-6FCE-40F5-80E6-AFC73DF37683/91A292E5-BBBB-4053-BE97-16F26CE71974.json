@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZmdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT9CRUhMVFVWV1hcYGJVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfEC9EaWFseXNpcyBDZW50ZXIgb2YgTWlkZGxlIEdlb3JnaWEtV2FybmVyIFJvYmluc9MREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4zMDE5NjA3ODQzIDAuMzAxOTYwNzg0MyAwLjMwMTk2MDc4NDMAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1TY3Cjg5Ojs8PT1aTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAABAEgA6ADIAM0hIKQEGggA3SLC1DRFdOU0FycmF5okMx0iwtRkdfEBBOU1BhcmFncmFwaFN0eWxlokYx0gpJSktfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AWgBDTERIKTVBTok5PgBGAEqJRUoATgBSAFV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAWE9wZW5TYW5z0iwtWVpfEBNOU011dGFibGVEaWN0aW9uYXJ5o1lbMVxOU0RpY3Rpb25hcnnSLC1dXl8QEE5TRm9udERlc2NyaXB0b3KiXzFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtW2GiWzHSLC1jZF8QEk5TQXR0cmlidXRlZFN0cmluZ6JlMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFoaVRyb290gAEACAARABoAIwAtADIANwBTAFkAYABpAHAAfQB/AIEAgwC1ALwAxADPANMA1QDXANkA3QDfAOEA4wDlAO0BAAEiASsBMQE+AVMBfQF/AYEBgwGIAY0BjwGRAZYBoQGqAbcBugHHAdAB1QHdAeAB6wH2AgICDwIbAh0CHwIhAiMCJQIqAisCLQIyAjoCPQJCAlUCWAJdAnoCfAJ+AoUCiAKKAowCjwKRApMClQKrAsECygLTAtgC7gLyAv8DBAMXAxoDLQMyAzUDOgNPA1IDZwN5A3wDgQAAAAAAAAIBAAAAAAAAAGoAAAAAAAAAAAAAAAAAAAOD"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "91A292E5-BBBB-4053-BE97-16F26CE71974",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 397,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {362, 21}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Dialysis Center of M",
+  "nameIsFixed": false,
+  "originalObjectID": "91A292E5-BBBB-4053-BE97-16F26CE71974",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "60426655-5A6F-42BB-A10D-BA4A48F22B68"
+  },
+  "textBehaviour": 1
+}

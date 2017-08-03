@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "AC55053A-AA79-471A-B479-4997455B6222",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 173,
+    "width": 307,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1732ABC1-CF7B-4509-AE43-84FB23904E77"
+    },
+    {
+      "class": "text",
+      "id": "9E7AEA6A-56D2-490E-BA41-42D4042F1118"
+    },
+    {
+      "class": "text",
+      "id": "A08798D9-FE0D-4B41-9BF9-B997D20EFF10"
+    },
+    {
+      "class": "text",
+      "id": "5E53F322-76F3-4F97-9371-2C52045C912D"
+    },
+    {
+      "class": "text",
+      "id": "9AD63E0A-DE9D-43AF-ACB2-993F10CA5A62"
+    },
+    {
+      "class": "text",
+      "id": "E445B4E1-3FE1-448C-AAB6-306402694257"
+    }
+  ],
+  "name": "Dropdown / Reminders Next 7 Days",
+  "nameIsFixed": false,
+  "originalObjectID": "AC55053A-AA79-471A-B479-4997455B6222",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

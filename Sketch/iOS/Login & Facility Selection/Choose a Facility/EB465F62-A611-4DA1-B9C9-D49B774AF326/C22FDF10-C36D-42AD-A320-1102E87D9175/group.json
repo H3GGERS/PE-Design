@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "C22FDF10-C36D-42AD-A320-1102E87D9175",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 307,
+    "x": 271,
+    "y": 278
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3C23B3D2-D990-46A3-A2CC-3ADFB1A7616E"
+    },
+    {
+      "class": "text",
+      "id": "96420762-9C8E-465B-A553-C3492124C029"
+    },
+    {
+      "class": "text",
+      "id": "4CF98A44-C5D5-4B4F-8ECE-B5D0A2B69EAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8120FD3A-EBB6-4B04-8118-509ED378B486"
+    },
+    {
+      "class": "text",
+      "id": "F19C3492-2BD9-4FA4-95C5-318A2B008EC6"
+    }
+  ],
+  "name": "Filter Copy 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

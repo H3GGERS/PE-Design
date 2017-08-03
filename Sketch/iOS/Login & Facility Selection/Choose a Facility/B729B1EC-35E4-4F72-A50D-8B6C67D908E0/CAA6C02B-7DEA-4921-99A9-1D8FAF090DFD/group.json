@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "CAA6C02B-7DEA-4921-99A9-1D8FAF090DFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 44,
+    "width": 120,
+    "x": 20,
+    "y": 95
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0AAAA2FF-77D6-427D-B47B-C54576FB0923"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D96CEF10-1429-4DAA-BA63-C083B6C1FDFB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16160774-A0A4-4E92-BD85-411C6135ACB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B41410FB-F133-4E1A-A2FC-385E5B6DFC4F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06405AE2-BA04-457A-A4F9-9ECE08D59A09"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CBB85AF-6ADA-434C-8782-03270A376BE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C80687E4-051F-45FE-B2E6-56527EA33056"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDB9EE67-53A4-4611-A1DF-4330F6B825FD"
+    }
+  ],
+  "name": "DaVita Logo Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

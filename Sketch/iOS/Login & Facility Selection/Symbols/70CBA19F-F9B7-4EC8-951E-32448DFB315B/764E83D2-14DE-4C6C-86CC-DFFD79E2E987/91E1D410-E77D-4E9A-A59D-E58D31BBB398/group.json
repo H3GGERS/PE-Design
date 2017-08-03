@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "91E1D410-E77D-4E9A-A59D-E58D31BBB398",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 25,
+    "width": 24,
+    "x": 0,
+    "y": 44
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A237C61D-AD89-4513-8509-D654CD5B04F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "258671FD-C249-4547-9B50-58A184931240"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAE2FE9A-BC4B-4165-B55A-B54E90C30885"
+    }
+  ],
+  "name": "Nutrition",
+  "nameIsFixed": true,
+  "originalObjectID": "91E1D410-E77D-4E9A-A59D-E58D31BBB398",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.21112865035517,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

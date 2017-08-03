@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "86D7C6FA-2C69-4383-8CCA-96868F1D3D48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 69,
+    "x": 762,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6C75DF58-464A-4EE6-A20A-9BFDD4CF05FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44F2669D-646F-4770-A065-E1B78FBACBE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0818987-B805-46A9-AF3E-194D569279EF"
+    }
+  ],
+  "name": "Waiting Room",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

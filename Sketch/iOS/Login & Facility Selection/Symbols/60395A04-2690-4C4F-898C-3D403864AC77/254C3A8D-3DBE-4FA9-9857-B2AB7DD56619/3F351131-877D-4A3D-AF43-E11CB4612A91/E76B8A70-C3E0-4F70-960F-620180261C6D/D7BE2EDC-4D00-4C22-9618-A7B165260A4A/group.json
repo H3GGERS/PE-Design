@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "D7BE2EDC-4D00-4C22-9618-A7B165260A4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 202,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EE27A32B-6DAC-4505-A7EF-CF6DFD132D4E"
+    },
+    {
+      "class": "text",
+      "id": "125CCD67-F3F5-4A0A-A2A5-6D152AFA942F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43B6372C-3AAB-4D85-9405-EB7F96035E6B"
+    },
+    {
+      "class": "text",
+      "id": "1067F8BC-5408-42A4-9367-F0883291FE40"
+    }
+  ],
+  "name": "Waiting room",
+  "nameIsFixed": true,
+  "originalObjectID": "2E362505-C491-4BD3-8107-F1277FCF9FAF",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

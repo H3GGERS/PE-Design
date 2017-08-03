@@ -1,0 +1,143 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "06981105-FD58-4FE6-AD6C-AD398409C47B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 442,
+    "width": 247,
+    "x": 21336,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1431B9DF-5DCD-4DC7-BCDF-24FF8B2CBD33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0368E639-85E4-49F9-B37C-11F4CC947696"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F99343D5-92C1-4A71-9676-B0183D9DAD04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF3527B2-DF20-4EB6-A203-14689337DB3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "382F9411-C0F7-4002-B889-58852E784DE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67895B84-7154-405E-A117-0CCBC22AEFB7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2C76308-1396-4FAE-B205-8F87322C401A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE5F19CB-9A99-4DA2-9611-7B18FF9DC238"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E3A2E9F-4DE7-46F7-8595-356152338846"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDC1940A-98A0-4268-86B2-579C1EEAD626"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49A52570-56CF-4645-9741-7505BEC56B34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "347A3C80-BAE5-4202-A076-AC28072D3D20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "047671C4-A5E0-4E6B-9010-D6233B63B1A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FFA56E8-A24C-438E-8A0C-5D59078C0F2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56F852C2-56C9-4EA1-935A-009DD80B297C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3A0F493-180F-43DF-97D3-43ED7B1EE5ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E40EF185-CC97-4A1B-BE74-12857FBC38F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98E03B6E-864E-4BBC-859F-35C732B7FD7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F85CE8ED-BB05-45F6-8C4A-882A431A5A97"
+    }
+  ],
+  "name": "Navigation New / Left Nav",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "85E91E50-742D-488B-91D4-CAD003834A42",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "BC5D9492-6633-44E5-A156-0A8ADD72AE08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 150,
+    "x": 858,
+    "y": 314
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0D012921-9BE6-4336-BC1F-92EE7A1F5FAB"
+    },
+    {
+      "class": "text",
+      "id": "C6771B08-B6ED-429C-AEC7-7122F2678A31"
+    },
+    {
+      "class": "text",
+      "id": "A20D82C6-F123-4EA3-9D4A-ED328ECE2F34"
+    }
+  ],
+  "name": "Rectangle 43 + Patient A-Z, DOB Asc + Sort By ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
