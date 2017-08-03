@@ -1,0 +1,132 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "F670AC9E-D0BA-488C-8370-D23F80EAB319",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 247,
+    "x": 15203,
+    "y": 2710
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D7E1DC6A-87A1-4AC4-ADDE-6BFBC10442B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25F09027-4EB5-459D-98DD-10FE99C9F0F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8981E0DF-695C-4B2E-B8C4-A4D3564CB784"
+    },
+    {
+      "class": "text",
+      "id": "5652536D-11C4-4F5D-B7AF-53A5CAF73B1C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B4545BF-0733-490C-8B67-061D95CEC37E"
+    },
+    {
+      "class": "text",
+      "id": "9FBB5DE8-C128-4943-8ADD-4DA5605B5A81"
+    },
+    {
+      "class": "text",
+      "id": "EDA3844E-8859-46A4-824B-3E6B990EFFB4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A1E996D-5491-4C2D-97C8-19679EA013AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35C61236-C2AA-4BCE-AAC3-82C803FE6CFE"
+    },
+    {
+      "class": "text",
+      "id": "10FF5284-4A74-4506-B20E-63D39330FDC7"
+    },
+    {
+      "class": "text",
+      "id": "9EF2C022-0515-4BB9-B0C2-12258CF6EF2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C1BF01A-546D-4498-8249-64DAFECF8337"
+    },
+    {
+      "class": "text",
+      "id": "40B07D41-85B1-4814-BF18-2EAE8E56D95E"
+    },
+    {
+      "class": "text",
+      "id": "5F743C8A-970E-412B-AEC5-EF903DEEA4B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7C72E81A-855F-49FB-A055-AFCEDD40043F"
+    },
+    {
+      "class": "text",
+      "id": "8D037EDF-67C3-453E-9D3A-A56DEC76EF90"
+    }
+  ],
+  "name": "Left Nav / Patient Summary",
+  "nameIsFixed": true,
+  "originalObjectID": "F670AC9E-D0BA-488C-8370-D23F80EAB319",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "53F514CC-192D-4331-A60A-12A668DD60BD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

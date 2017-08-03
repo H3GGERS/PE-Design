@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "3CCEB2E0-D396-436E-A6BC-63ACC64DA74E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 768,
+    "x": 4400,
+    "y": 35
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FC82CAD6-225B-4603-BEAD-948F2879CAAE"
+    },
+    {
+      "class": "group",
+      "id": "19D89532-A9EF-4528-B87A-29C70B620001"
+    },
+    {
+      "class": "group",
+      "id": "310C5C6E-8F6B-4483-B640-6D75405E0FF5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8BCC7B1B-6C47-4B1E-A6FE-B201503DBEAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F172BF69-554C-4DAD-87A9-1D52C6296495"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "860421E7-6AD9-4F2A-97EA-832B572F35DB"
+    },
+    {
+      "class": "text",
+      "id": "643E1A8C-1248-4CBA-BDB9-BE0F5DE79E7B"
+    },
+    {
+      "class": "text",
+      "id": "BA53017B-49FC-4AEA-AC2A-438821FDF88E"
+    },
+    {
+      "class": "text",
+      "id": "17B11FE5-2A1C-4634-AC1F-C03E065C4CE5"
+    }
+  ],
+  "name": "IPADmini_ClinicianPasswordFail_lockout@2x",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

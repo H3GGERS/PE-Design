@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "93B2A01A-F3D3-4E7F-96FD-0C9DE04EADEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 25,
+    "width": 28,
+    "x": 12,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "715F9217-92DC-4AB3-ACCB-484586A283F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39322C9D-BAAB-44AA-8A71-984DAB4A7211"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "677FF5F5-514A-4A6B-A521-2DC8241CCFD4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D81CB9BA-0444-45B5-A896-F1084B2B4BE6"
+    }
+  ],
+  "name": "Messaging Icon",
+  "nameIsFixed": true,
+  "originalObjectID": "293CA525-E0DF-4D6A-9081-4F18E1AD947A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 25,
+            "enabled": 1,
+            "modelID": "constraint_5955aa2b-ea6e-4ebc-b6bb-7f939687872a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 28
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_21975181-b639-41b2-bfa7-6ba7c7fe33ce",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

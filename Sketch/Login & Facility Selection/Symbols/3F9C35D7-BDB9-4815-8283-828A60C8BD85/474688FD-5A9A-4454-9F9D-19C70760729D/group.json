@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "474688FD-5A9A-4454-9F9D-19C70760729D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58,
+    "width": 82,
+    "x": -1,
+    "y": -2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8D19E70E-FCDA-4991-8AA2-E91643072D64"
+    },
+    {
+      "class": "text",
+      "id": "CDDEB2EF-3ADC-4A0C-AA3A-EB2FCF2BC7F5"
+    }
+  ],
+  "name": "Profile Header Tablet",
+  "nameIsFixed": false,
+  "originalObjectID": "474688FD-5A9A-4454-9F9D-19C70760729D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

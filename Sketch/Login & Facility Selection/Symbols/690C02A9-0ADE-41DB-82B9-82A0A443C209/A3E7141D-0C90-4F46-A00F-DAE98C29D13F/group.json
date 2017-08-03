@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "A3E7141D-0C90-4F46-A00F-DAE98C29D13F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 235,
+    "x": 428,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "52A59A3D-82FB-492B-8FFA-1BC5D40B2BC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E644E81-5C14-497E-A458-C00236295625"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2360001B-F204-41DD-AB70-6FF309A7EE17"
+    }
+  ],
+  "name": "Average Wellbeing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

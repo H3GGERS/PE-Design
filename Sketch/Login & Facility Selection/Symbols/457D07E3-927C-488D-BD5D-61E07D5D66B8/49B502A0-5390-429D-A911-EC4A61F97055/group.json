@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "do_objectID": "49B502A0-5390-429D-A911-EC4A61F97055",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 473,
+    "width": 193,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "840BF587-0868-4C5A-AB18-F96870CCCD71"
+    },
+    {
+      "class": "text",
+      "id": "513853BF-3E8C-456E-860E-A98A9B358BBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE4CE53C-AADA-4E42-9731-0F95C2010028"
+    },
+    {
+      "class": "text",
+      "id": "8C16C0D9-2D22-4C3D-AD7E-58295165F869"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A30F330-023F-46AE-9929-EEDA08C8382A"
+    },
+    {
+      "class": "text",
+      "id": "D03E0C75-3939-4770-A808-FC1B8048782D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "010E0C7D-0858-400D-B2BE-FB9BC357A949"
+    },
+    {
+      "class": "text",
+      "id": "A63CD6E6-0229-4173-9A36-52C46F6893A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D66066EC-D57C-44DB-9F31-D32220AE714A"
+    },
+    {
+      "class": "text",
+      "id": "B1E81316-A50D-4A84-848C-379ED5D8A58A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F7104DE-BC86-4FFE-8BA3-8C3942A71EC0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "931DDD61-0069-4DDD-B40B-8CEFDF6B4808"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "80F439FE-0E8D-40C6-A09D-113E1F82FA4D"
+    },
+    {
+      "class": "text",
+      "id": "78B8DFB8-7885-4170-9F4D-B3346BA88886"
+    },
+    {
+      "class": "text",
+      "id": "94CE2B1B-AEB2-443E-89C0-1AA4BF206A1C"
+    },
+    {
+      "class": "text",
+      "id": "8A464611-2C8C-4B6D-87B7-E2A2C2B5FC3A"
+    }
+  ],
+  "name": "LeftNav_Tablet",
+  "nameIsFixed": false,
+  "originalObjectID": "49B502A0-5390-429D-A911-EC4A61F97055",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

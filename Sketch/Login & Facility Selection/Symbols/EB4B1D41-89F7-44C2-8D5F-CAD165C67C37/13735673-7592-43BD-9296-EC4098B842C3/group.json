@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "do_objectID": "13735673-7592-43BD-9296-EC4098B842C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 579,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F1FC1F9B-B7C4-45BF-9DAA-3BBE67630AB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AEABFBE-3F76-420E-9FD5-8ECBF36B0A51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E64DAA5-8C32-4292-838B-D375A79EA8C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C018F5E-BE2D-49B8-94DF-CC08EF828AB7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CBE45E50-7DC4-4628-8FE9-B328037C9714"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93B9B340-4875-40FC-90F2-5F041AA68132"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2019851-34A8-4F53-97DA-C28AC13C32D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "362F345F-9FFD-4703-B811-8F0E10E945B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C26FDBD-595A-42F8-8519-D3419602F1FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DB96E0E-F526-4F49-9ED7-EF8564ECBED7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4396A94-A3AE-44EC-8609-F19A7915B42F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5A3FE5E-E714-47B4-BA52-7A55085A9D4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97886C60-8511-4D82-A647-6FE5A3F37D18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA0EA294-A119-48E4-A3BF-760D959A760F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "084E0921-EA6E-4E53-A786-9575F1A48665"
+    }
+  ],
+  "name": "X-Axis",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
